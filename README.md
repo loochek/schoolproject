@@ -31,3 +31,5 @@ Several scripts to manage results of PE exercises
     - ... - (int) results for each week, number of collumns has to be equal to or higher than WEEKS_COUNT value in api.py file
     
 **Note:** week 1 always have number 0, uids and gids can be any
+
+Other notes you can find in the script files
