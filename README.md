@@ -1,6 +1,8 @@
 # schoolproject
 Several scripts to manage results of PE exercises
 
+You can try it (but without editing) at http://physedu.mooo.com/
+
 # Database structure
 - Required tables:
   - users
